@@ -1,12 +1,11 @@
-# Smart Cultural Heritage and Museum Knowledge Ontology
+# Cultural Heritage and Museum Ontology
 
-## 1. Project Title
+## OWL 2 Implimentation using pro Protégé
 
-**Smart Cultural Heritage and Museum Knowledge Ontology**
 
 ---
 
-## 2. Knowledge Domain
+## 1. Knowledge Domain
 
 This ontology belongs to the **Cultural Heritage and Museum Management Domain**.
 
@@ -16,7 +15,7 @@ The ontology is intended to support knowledge organization, semantic interoperab
 
 ---
 
-## 3. Development Environment
+## 2. Development Environment
 
 | Component | Technology |
 |------------|------------|
@@ -28,7 +27,7 @@ The ontology is intended to support knowledge organization, semantic interoperab
 
 ---
 
-## 4. How to Run the Ontology
+## 3. How to Run the Ontology
 
 ### Step 1 – Install Protégé
 
@@ -76,7 +75,7 @@ The ontology should classify successfully and remain logically consistent.
 
 ---
 
-## 5. Ontology Objectives
+## 4. Ontology Objectives
 
 The ontology was developed to:
 
@@ -89,7 +88,7 @@ The ontology was developed to:
 
 ---
 
-## 6. Conceptual Model
+## 5. Conceptual Model
 
 The ontology contains a rich hierarchy of concepts representing the museum and cultural heritage domain.
 
@@ -166,7 +165,7 @@ The ontology contains a rich hierarchy of concepts representing the museum and c
 
 ---
 
-## 7. Semantic Relationships
+## 6. Semantic Relationships
 
 The ontology defines semantic links through object properties.
 
@@ -201,7 +200,7 @@ These relationships connect heritage resources with people, institutions, events
 
 ---
 
-## 8. Descriptive Attributes
+## 7. Descriptive Attributes
 
 Datatype properties are used to describe entities and resources.
 
@@ -232,7 +231,7 @@ Datatype properties are used to describe entities and resources.
 
 ---
 
-## 9. Modeling Strategy
+## 8. Modeling Strategy
 
 The ontology follows several ontology engineering principles.
 
@@ -254,7 +253,7 @@ Conservation activities and preservation records are explicitly represented to s
 
 ---
 
-## 10. OWL 2 Features Utilized
+## 9. OWL 2 Features Utilized
 
 The ontology employs several OWL 2 constructs:
 
@@ -277,7 +276,7 @@ These constructs improve semantic expressiveness and reasoning capabilities.
 
 ---
 
-## 11. Sample Knowledge Graph
+## 10. Sample Knowledge Graph
 
 ### The Starry Night
 
@@ -307,7 +306,7 @@ These constructs improve semantic expressiveness and reasoning capabilities.
 
 ---
 
-## 12. Consistency Verification
+## 11. Consistency Verification
 
 The ontology was validated using the **HermiT reasoner** within Protégé.
 
@@ -327,7 +326,7 @@ The ontology is logically valid and compatible with OWL 2 reasoning standards.
 
 ---
 
-## 13. Project Summary
+## 12. Project Summary
 
 The **Smart Cultural Heritage and Museum Knowledge Ontology** provides a structured semantic framework for representing cultural heritage assets, museum collections, historical knowledge, conservation records, and digital documentation resources.
 
