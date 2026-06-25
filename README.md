@@ -324,7 +324,7 @@ The ontology was validated using the **HermiT Reasoner** within **Protégé**.
 
 **No logical inconsistencies were detected.**
 
-The ontology is logically valid and compatible with **OWL 2 reasoning standards**.
+The ontology is logically valid and compatible with **OWL 2.0 reasoning standards**.
 
 ---
 
